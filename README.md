@@ -52,5 +52,5 @@ So, feel free to open this template up, put in some new questions, and go from t
 
 The Falling Objects Template is also built on top of the Game Template, which keeps track of high score, has page navigation, etc.  With this template, the player will want to catch the "Good Objects" while dodging the "Bad Objects".  The user is rewarded for catching good objects and punish the user for catching bad objects.  As the developer, you should customize the graphics here, the point bonuses, and the overall look and feel of the game.
 
-If you have any questions, feel free to email me, james.q.quick@outlook.com, or Follow me on Twitter, @jquickwit, for any questions, comments, or concerns.
+If you have any questions, feel free to email me, james.q.quick@outlook.com, or Follow me on Twitter, @jamesqquick, for any questions, comments, or concerns.
 
