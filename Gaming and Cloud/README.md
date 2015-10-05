@@ -27,7 +27,7 @@ Module 5
 - Creating site to host your game in Azure
 
 Module 6
-Adding extras to your game
+- Adding extras to your game
 
 Resources
 
