@@ -5,22 +5,27 @@ Module 1
 - Structure and Resources
 - Intro and Download
 - First Project and Exploring the IDE
+
 Module 2
 - Sprites and Behaviors
 - Tilemaps And Layers
 - Adding Objects
+
 Module 3
 - Event Sheet Intro
 - Variables and Groups
+
 Module 4
 - Heads Up Display Part 1
 - Heads Up Display part 2
 - Player Animation
 - Navigation and Functions
+
 Module 5
 - Signing up for Dreamspark and Azure
 - Creating a Wordpress site in Azure
 - Creating site to host your game in Azure
+
 Module 6
 Adding extras to your game
 
